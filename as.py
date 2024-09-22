@@ -1,1 +1,0 @@
-print('its as py')
